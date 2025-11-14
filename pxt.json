@@ -1,0 +1,13 @@
+{
+  "name": "walk-signal",
+  "version": "0.0.1",
+  "description": "Crosswalk walking figure for Kitronik 128x64 display",
+  "dependencies": {
+    "core": "*",
+    "pxt-kitronik-128x64Display": "github:KitronikLtd/pxt-kitronik-128x64Display"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
