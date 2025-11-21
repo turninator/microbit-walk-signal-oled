@@ -1,5 +1,5 @@
 {
-  "name": "walk-signal",
+  "name": "walk-signal-stoplight",
   "version": "0.0.1",
   "description": "Crosswalk walking figure for Kitronik 128x64 display",
   "dependencies": {
