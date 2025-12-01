@@ -218,8 +218,8 @@ namespace WalkSignal {
     //% block="don't walk hand"
     //% weight=90
     export function dontWalkHand() {
-        const blinks = 6       // how many times it blinks
-        const onTime = 300     // ms hand is ON
+        const blinks = 1       // how many times it blinks
+        const onTime = 1500     // ms hand is ON
         const offTime = 200    // ms hand is OFF
 
         for (let i = 0; i < blinks; i++) {
